@@ -1,0 +1,32 @@
+instrucciones para instalar geodjango
+	https://docs.djangoproject.com/en/3.0/ref/contrib/gis/install/
+	
+	https://docs.djangoproject.com/en/3.0/ref/contrib/gis/install/#windows
+
+	https://docs.djangoproject.com/en/3.0/ref/contrib/gis/install/geolibs/
+
+	https://docs.djangoproject.com/en/3.0/ref/contrib/gis/install/postgis/
+
+Acceder a la consola de postgres 
+
+	http://tecnologiaenvivo.com/acceder-a-la-consola-de-postgres/
+
+Para hacer las rutas necesitamos
+
+	https://geopois.com/blog/openstreetmap/osm-to-postgresql
+
+	https://wiki.openstreetmap.org/wiki/ES:Argentina/Transporte_p%C3%BAblico
+	https://wiki.openstreetmap.org/wiki/ES:Cordoba/transporte_p%C3%BAblico
+	download.geofabrik.de/south-america/argentina-latest.osm.pbf
+
+aca ya estan cargadas las rutas, pero aun no se como descargarlas
+	https://www.openstreetmap.org/export#map=17/-27.45156/-59.02170&layers=TG
+
+este es el editor
+
+	https://learnosm.org/es/josm/start-josm/
+
+
+
+
+
