@@ -1,0 +1,53 @@
+body {
+    background-color: grey;
+}
+#map { 
+    width: 75%;
+    height: 640px; 
+    float: right;
+}
+
+.box {
+    height: 205px;
+    width: 330px;
+    margin-top: 30px;
+    display: block;
+}
+
+input[type=text] {
+    width: inherit;
+    height: 44px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: list-item;
+    border: 1px solid white;
+    box-sizing: border-box;
+}
+
+label {
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+}
+
+#index {
+    padding: 10px;
+    margin: 0px;
+    height: 40px;
+}
+
+#fin {
+    padding: 10px;
+    margin: 0px;
+    height: 40;
+}
+input[type=submit] {
+    width: 1fr;
+    background-color: blueviolet;
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    float: left;
+}
