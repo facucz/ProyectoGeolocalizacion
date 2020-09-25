@@ -1,0 +1,64 @@
+<!DOCTYPE html> 
+<html>
+  <head>
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet.locatecontrol/dist/L.Control.Locate.min.css" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet.locatecontrol/dist/L.Control.Locate.min.js" charset="utf-8"></script>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet-routing-machine@3.2.12/dist/leaflet-routing-machine.css" />
+    <script src="https://unpkg.com/leaflet-routing-machine@3.2.12/dist/leaflet-routing-machine.js"></script>
+    <script src="https://unpkg.com/leaflet-control-geocoder/dist/Control.Geocoder.js"></script>
+    
+    <title>miResistencia</title> 
+    <link rel="stylesheet" href="/static/css/entry_list.css" type="text/css"/>
+  </head>
+  <body>
+    <div id="map"></div>
+    <script>
+        var map = L.map('map').
+        setView([-27.450508, -58.9874573], 
+        14);
+    
+        L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, Imagery © <a href="http://cloudmade.com">CloudMade</a>',
+        maxZoom: 18
+        }).addTo(map);
+   
+        L.control.scale().addTo(map);
+        {% for e in object_list %}
+          L.marker({{e.lat_lng}}).addTo(map).bindPopup('({e})');
+        {% endfor %}
+
+         // var lc = L.control.locate({
+        // position: 'topleft',
+        // strings: {
+        // title: "Mi ubicación"
+        // }
+        // }).addTo(map);
+
+        // L.Routing.control({
+        // waypoints: [
+        // L.latLng(),
+        // L.latLng()
+        // ],
+        // routeWhileDragging: true,
+        // geocoder: L.Control.Geocoder.nominatim(),
+        
+        // }).addTo(map);
+    </script>
+    <div class="flex">
+        <div><img src="https://i.ibb.co/RynscBM/logo.png" alt="logo" width="260" height="150"></div>
+    </div>
+    <form>
+      <div class="box">
+        <label id="index">Inicio</label>
+        <input type="text" id="inicio" name="inicio" placeholder="Indique punto de partida" />
+        <label id="fin">Fin</label>
+        <input type="text" id="apellido" name="apellido" placeholder="Indique destino" />
+        <input type="submit" value="Buscar" />
+      </div>
+    </form>
+
+  </body>
+</html>

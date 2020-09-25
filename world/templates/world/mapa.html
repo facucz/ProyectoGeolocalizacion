@@ -13,7 +13,7 @@
     <script src="https://unpkg.com/leaflet-control-geocoder/dist/Control.Geocoder.js"></script>
     
     <title>miResistencia</title> 
-    <link rel="stylesheet" href="mapa.css" type="text/css"/>
+    <link rel="stylesheet" href="/static/css/mapa.css" type="text/css"/>
   </head>
   <body>
     <div id="map"></div>
@@ -30,12 +30,12 @@
         L.control.scale().addTo(map);
         
         
-        var lc = L.control.locate({
-        position: 'topleft',
-        strings: {
-        title: "Mi ubicación"
-        }
-        }).addTo(map);
+        // var lc = L.control.locate({
+        // position: 'topleft',
+        // strings: {
+        // title: "Mi ubicación"
+        // }
+        // }).addTo(map);
 
         L.Routing.control({
         waypoints: [
