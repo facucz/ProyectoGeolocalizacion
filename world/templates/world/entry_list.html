@@ -30,23 +30,6 @@
         {% for e in object_list %}
           L.marker({{e.lat_lng}}).addTo(map).bindPopup('({e})');
         {% endfor %}
-
-         var lc = L.control.locate({
-        position: 'topleft',
-        strings: {
-        title: "Mi ubicación"
-        }
-        }).addTo(map);
-
-        L.Routing.control({
-        waypoints: [
-        L.latLng(),
-        L.latLng()
-        ],
-        routeWhileDragging: true,
-        geocoder: L.Control.Geocoder.nominatim(),
-        
-        }).addTo(map);
     </script>
     <div class="flex">
         <div><img src="https://i.ibb.co/RynscBM/logo.png" alt="logo" width="260" height="150"></div>

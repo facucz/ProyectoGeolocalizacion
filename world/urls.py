@@ -3,6 +3,6 @@ from . import views
 from .views import EntryList
 
 urlpatterns= [
-	path('', EntryList.as_view()),
-	
+	path('', views.home, name='home'),
+	path('puntos', EntryList.as_view(), name='puntos'),	
 ]

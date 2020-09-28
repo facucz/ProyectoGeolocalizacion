@@ -30,12 +30,12 @@
         L.control.scale().addTo(map);
         
         
-        // var lc = L.control.locate({
-        // position: 'topleft',
-        // strings: {
-        // title: "Mi ubicación"
-        // }
-        // }).addTo(map);
+        var lc = L.control.locate({
+        position: 'topleft',
+        strings: {
+        title: "Mi ubicación"
+        }
+        }).addTo(map);
 
         L.Routing.control({
         waypoints: [
