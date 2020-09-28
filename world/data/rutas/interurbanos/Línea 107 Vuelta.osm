@@ -1,0 +1,748 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='256597240' timestamp='2017-01-09T02:57:43Z' uid='485898' user='Víctor L' visible='true' version='18' changeset='45016402' lat='-27.436163' lon='-59.0124816' />
+  <node id='355040785' timestamp='2014-02-05T15:33:48Z' uid='211657' user='pablopareja' visible='true' version='42' changeset='20394971' lat='-27.4519627' lon='-58.9873728' />
+  <node id='358233958' timestamp='2017-01-08T04:09:59Z' uid='485898' user='Víctor L' visible='true' version='7' changeset='44993304' lat='-27.4343861' lon='-59.0088083' />
+  <node id='358233959' timestamp='2018-02-28T00:05:54Z' uid='6095772' user='cartogram' visible='true' version='9' changeset='56738924' lat='-27.4355169' lon='-59.0117915' />
+  <node id='419743333' timestamp='2017-12-06T16:27:23Z' uid='114642' user='pertile' visible='true' version='9' changeset='54406208' lat='-27.4527287' lon='-58.9865061'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='419743443' timestamp='2017-12-06T16:27:23Z' uid='114642' user='pertile' visible='true' version='8' changeset='54406208' lat='-27.4511419' lon='-58.9883029'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='1027310405' timestamp='2017-01-09T02:57:43Z' uid='485898' user='Víctor L' visible='true' version='6' changeset='45016402' lat='-27.4359893' lon='-59.0122995' />
+  <node id='1191876384' timestamp='2018-02-06T13:23:46Z' uid='114642' user='pertile' visible='true' version='5' changeset='56116813' lat='-27.448078' lon='-58.9900131'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='1191876389' timestamp='2018-02-27T12:50:24Z' uid='114642' user='pertile' visible='true' version='7' changeset='56722035' lat='-27.4488543' lon='-58.9891599' />
+  <node id='1191876399' timestamp='2018-03-23T11:59:23Z' uid='114642' user='pertile' visible='true' version='8' changeset='57454812' lat='-27.4449672' lon='-58.9935315' />
+  <node id='1191876413' timestamp='2018-01-31T20:43:17Z' uid='114642' user='pertile' visible='true' version='6' changeset='55946004' lat='-27.4527362' lon='-58.9847878' />
+  <node id='1191876415' timestamp='2017-12-20T19:23:10Z' uid='114642' user='pertile' visible='true' version='6' changeset='54795458' lat='-27.4496111' lon='-58.9883155'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='1191876451' timestamp='2018-01-29T18:43:55Z' uid='114642' user='pertile' visible='true' version='7' changeset='55869098' lat='-27.4457395' lon='-58.992689'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='1191876464' timestamp='2018-02-22T18:59:27Z' uid='114642' user='pertile' visible='true' version='11' changeset='56588697' lat='-27.4464921' lon='-58.9918096' />
+  <node id='1191876488' timestamp='2018-02-23T23:10:10Z' uid='114642' user='pertile' visible='true' version='7' changeset='56624119' lat='-27.4473273' lon='-58.9908642' />
+  <node id='1193261686' timestamp='2018-01-29T18:43:55Z' uid='114642' user='pertile' visible='true' version='6' changeset='55869098' lat='-27.4448885' lon='-58.9936225'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='1193261810' timestamp='2018-03-23T11:59:23Z' uid='114642' user='pertile' visible='true' version='10' changeset='57454812' lat='-27.4447995' lon='-58.9937141' />
+  <node id='1193262122' timestamp='2018-02-27T12:50:24Z' uid='114642' user='pertile' visible='true' version='9' changeset='56722035' lat='-27.4472436' lon='-58.9909615' />
+  <node id='1193964064' timestamp='2018-02-27T17:39:52Z' uid='6095772' user='cartogram' visible='true' version='4' changeset='56729367' lat='-27.4399655' lon='-58.999167'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='1193964083' timestamp='2018-02-19T18:14:54Z' uid='114642' user='pertile' visible='true' version='4' changeset='56499271' lat='-27.4384296' lon='-59.0008783'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='1193964089' timestamp='2018-02-06T13:23:47Z' uid='114642' user='pertile' visible='true' version='5' changeset='56116813' lat='-27.4424198' lon='-58.9964032'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='1193964106' timestamp='2018-01-26T20:12:58Z' uid='114642' user='pertile' visible='true' version='4' changeset='55784547' lat='-27.4415545' lon='-58.9973742'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='1193964138' timestamp='2018-04-04T13:07:43Z' uid='114642' user='pertile' visible='true' version='6' changeset='57803072' lat='-27.4440457' lon='-58.9945811' />
+  <node id='1193964152' timestamp='2018-02-06T13:23:47Z' uid='114642' user='pertile' visible='true' version='4' changeset='56116813' lat='-27.4432809' lon='-58.9954447'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='1193964168' timestamp='2018-02-19T18:14:54Z' uid='114642' user='pertile' visible='true' version='4' changeset='56499271' lat='-27.4391895' lon='-59.0000168'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='1193964174' timestamp='2018-02-24T00:14:17Z' uid='6095772' user='cartogram' visible='true' version='7' changeset='56625085' lat='-27.4383312' lon='-59.0009874'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='1193964185' timestamp='2018-01-26T20:12:58Z' uid='114642' user='pertile' visible='true' version='3' changeset='55784547' lat='-27.4407852' lon='-58.9982322'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='1202281924' timestamp='2018-02-05T13:33:37Z' uid='114642' user='pertile' visible='true' version='3' changeset='56085138' lat='-27.4368106' lon='-59.0027192'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='1202281926' timestamp='2018-02-05T13:33:37Z' uid='114642' user='pertile' visible='true' version='5' changeset='56085138' lat='-27.4375709' lon='-59.0018688'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='1202281959' timestamp='2017-01-08T04:09:59Z' uid='485898' user='Víctor L' visible='true' version='6' changeset='44993304' lat='-27.4354489' lon='-59.0042102'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='1202282020' timestamp='2018-02-05T13:33:37Z' uid='114642' user='pertile' visible='true' version='6' changeset='56085138' lat='-27.4360347' lon='-59.003584'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='1203450215' timestamp='2018-02-27T21:28:30Z' uid='6095772' user='cartogram' visible='true' version='3' changeset='56736076' lat='-27.4385283' lon='-59.0150638' />
+  <node id='1203450232' timestamp='2018-02-27T21:28:30Z' uid='6095772' user='cartogram' visible='true' version='3' changeset='56736076' lat='-27.4381404' lon='-59.0146113' />
+  <node id='1208047918' timestamp='2017-01-08T04:09:59Z' uid='485898' user='Víctor L' visible='true' version='2' changeset='44993304' lat='-27.434846' lon='-59.0053297' />
+  <node id='1208047945' timestamp='2018-02-09T11:51:33Z' uid='114642' user='pertile' visible='true' version='3' changeset='56214444' lat='-27.4344379' lon='-59.0069775' />
+  <node id='1208047967' timestamp='2018-02-28T00:05:54Z' uid='6095772' user='cartogram' visible='true' version='3' changeset='56738924' lat='-27.4347534' lon='-59.0104846' />
+  <node id='1208047985' timestamp='2018-02-09T11:51:33Z' uid='114642' user='pertile' visible='true' version='3' changeset='56214444' lat='-27.434399' lon='-59.0072726' />
+  <node id='1208047992' timestamp='2017-01-08T04:09:59Z' uid='485898' user='Víctor L' visible='true' version='3' changeset='44993304' lat='-27.4344519' lon='-59.0093031' />
+  <node id='1208048023' timestamp='2018-02-09T11:51:33Z' uid='114642' user='pertile' visible='true' version='3' changeset='56214444' lat='-27.4347508' lon='-59.00565' />
+  <node id='1208048044' timestamp='2017-01-08T04:10:01Z' uid='485898' user='Víctor L' visible='true' version='3' changeset='44993304' lat='-27.4350278' lon='-59.0110303' />
+  <node id='1208048065' timestamp='2017-01-08T04:09:59Z' uid='485898' user='Víctor L' visible='true' version='2' changeset='44993304' lat='-27.4343642' lon='-59.0085795' />
+  <node id='1209324755' timestamp='2011-03-19T19:07:59Z' uid='114642' user='pertile' visible='true' version='1' changeset='7608701' lat='-27.4369165' lon='-59.0132793' />
+  <node id='1209324764' timestamp='2011-03-19T19:07:59Z' uid='114642' user='pertile' visible='true' version='1' changeset='7608701' lat='-27.4366713' lon='-59.0130497' />
+  <node id='1215357805' timestamp='2018-02-27T21:28:31Z' uid='6095772' user='cartogram' visible='true' version='3' changeset='56736076' lat='-27.4384795' lon='-59.0151349' />
+  <node id='1215357816' timestamp='2015-06-11T22:00:25Z' uid='114642' user='pertile' visible='true' version='3' changeset='31908654' lat='-27.436848' lon='-59.0170472'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='1215357883' timestamp='2014-04-25T00:31:31Z' uid='114642' user='pertile' visible='true' version='3' changeset='21920022' lat='-27.4360862' lon='-59.0179101' />
+  <node id='1215357948' timestamp='2013-11-12T01:10:20Z' uid='114642' user='pertile' visible='true' version='2' changeset='18847212' lat='-27.435316' lon='-59.0187825' />
+  <node id='1215357990' timestamp='2018-02-27T21:28:31Z' uid='6095772' user='cartogram' visible='true' version='2' changeset='56736076' lat='-27.4384075' lon='-59.0152422' />
+  <node id='1215358009' timestamp='2018-02-27T21:28:31Z' uid='6095772' user='cartogram' visible='true' version='3' changeset='56736076' lat='-27.4376314' lon='-59.0161903' />
+  <node id='1215358044' timestamp='2018-02-27T21:28:31Z' uid='6095772' user='cartogram' visible='true' version='4' changeset='56736076' lat='-27.4382787' lon='-59.015468'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='1215545743' timestamp='2018-02-27T21:28:31Z' uid='6095772' user='cartogram' visible='true' version='2' changeset='56736076' lat='-27.4375493' lon='-59.016299' />
+  <node id='1215545749' timestamp='2011-03-24T00:19:46Z' uid='114642' user='pertile' visible='true' version='1' changeset='7651986' lat='-27.4351342' lon='-59.0189884' />
+  <node id='1215545759' timestamp='2011-03-24T00:19:46Z' uid='114642' user='pertile' visible='true' version='1' changeset='7651986' lat='-27.4345817' lon='-59.0196142' />
+  <node id='1216472389' timestamp='2011-03-24T20:00:43Z' uid='114642' user='pertile' visible='true' version='1' changeset='7659361' lat='-27.433114' lon='-59.0212766' />
+  <node id='1216472591' timestamp='2013-09-30T03:33:37Z' uid='114642' user='pertile' visible='true' version='2' changeset='18103461' lat='-27.431169' lon='-59.0234803' />
+  <node id='1216472647' timestamp='2013-09-30T03:42:02Z' uid='114642' user='pertile' visible='true' version='2' changeset='18103505' lat='-27.4337721' lon='-59.0205491' />
+  <node id='1216472703' timestamp='2011-03-24T20:00:49Z' uid='114642' user='pertile' visible='true' version='1' changeset='7659361' lat='-27.4323792' lon='-59.022109' />
+  <node id='1686499119' timestamp='2018-02-28T00:05:55Z' uid='6095772' user='cartogram' visible='true' version='3' changeset='56738924' lat='-27.4346974' lon='-59.0103284' />
+  <node id='2377949427' timestamp='2018-02-09T11:51:35Z' uid='114642' user='pertile' visible='true' version='3' changeset='56214444' lat='-27.4345379' lon='-59.0064425' />
+  <node id='2380076720' timestamp='2018-02-09T11:51:35Z' uid='114642' user='pertile' visible='true' version='2' changeset='56214444' lat='-27.4347746' lon='-59.0058068'>
+    <tag k='bench' v='yes' />
+    <tag k='name' v='25 de Mayo y Brignole' />
+    <tag k='public_transport' v='platform' />
+    <tag k='shelter' v='yes' />
+  </node>
+  <node id='2393442461' timestamp='2017-01-08T04:09:59Z' uid='485898' user='Víctor L' visible='true' version='2' changeset='44993304' lat='-27.434343' lon='-59.0082854' />
+  <node id='2477245871' timestamp='2013-09-30T03:42:01Z' uid='114642' user='pertile' visible='true' version='1' changeset='18103505' lat='-27.435978' lon='-59.0180326'>
+    <tag k='traffic_calming' v='bump' />
+  </node>
+  <node id='2477245873' timestamp='2013-09-30T03:42:01Z' uid='114642' user='pertile' visible='true' version='1' changeset='18103505' lat='-27.4367247' lon='-59.0171869'>
+    <tag k='traffic_calming' v='bump' />
+  </node>
+  <node id='2573671509' timestamp='2017-12-21T18:14:54Z' uid='114642' user='pertile' visible='true' version='3' changeset='54821878' lat='-27.451076' lon='-58.9882044' />
+  <node id='2573671512' timestamp='2017-12-06T16:27:24Z' uid='114642' user='pertile' visible='true' version='2' changeset='54406208' lat='-27.451212' lon='-58.988209' />
+  <node id='2573671520' timestamp='2014-07-21T17:18:59Z' uid='755114' user='muralito' visible='true' version='3' changeset='24277893' lat='-27.4526161' lon='-58.9864218' />
+  <node id='2573671525' timestamp='2018-01-31T20:43:23Z' uid='114642' user='pertile' visible='true' version='2' changeset='55946004' lat='-27.4526405' lon='-58.9865833' />
+  <node id='2656096341' timestamp='2015-02-06T23:54:08Z' uid='114642' user='pertile' visible='true' version='2' changeset='28664456' lat='-27.4520238' lon='-58.9856071' />
+  <node id='3335201240' timestamp='2017-12-06T16:27:24Z' uid='114642' user='pertile' visible='true' version='2' changeset='54406208' lat='-27.4503953' lon='-58.9874244' />
+  <node id='3335201243' timestamp='2018-02-26T20:48:01Z' uid='6095772' user='cartogram' visible='true' version='3' changeset='56702502' lat='-27.451917' lon='-58.9874277' />
+  <node id='3335201244' timestamp='2015-02-06T23:53:40Z' uid='114642' user='pertile' visible='true' version='1' changeset='28664456' lat='-27.4519541' lon='-58.9856868' />
+  <node id='3335201245' timestamp='2018-01-15T12:11:59Z' uid='114642' user='pertile' visible='true' version='2' changeset='55460395' lat='-27.4519866' lon='-58.9873466' />
+  <node id='4323830555' timestamp='2016-07-27T18:41:16Z' uid='114642' user='pertile' visible='true' version='1' changeset='41069429' lat='-27.4319654' lon='-59.0225779' />
+  <node id='4595625777' timestamp='2017-01-08T04:09:56Z' uid='485898' user='Víctor L' visible='true' version='1' changeset='44993304' lat='-27.4349446' lon='-59.0051151' />
+  <node id='4595625778' timestamp='2017-01-08T04:09:56Z' uid='485898' user='Víctor L' visible='true' version='1' changeset='44993304' lat='-27.4350309' lon='-59.0049415' />
+  <node id='4595625779' timestamp='2017-01-08T04:09:56Z' uid='485898' user='Víctor L' visible='true' version='1' changeset='44993304' lat='-27.4351111' lon='-59.0047901' />
+  <node id='4595625780' timestamp='2017-01-08T04:09:56Z' uid='485898' user='Víctor L' visible='true' version='1' changeset='44993304' lat='-27.4351858' lon='-59.0046519' />
+  <node id='4595625781' timestamp='2017-01-08T04:09:56Z' uid='485898' user='Víctor L' visible='true' version='1' changeset='44993304' lat='-27.4352769' lon='-59.0044898' />
+  <node id='4595625782' timestamp='2017-01-08T04:09:56Z' uid='485898' user='Víctor L' visible='true' version='1' changeset='44993304' lat='-27.4353629' lon='-59.0043462' />
+  <node id='4595625786' timestamp='2017-01-08T04:09:56Z' uid='485898' user='Víctor L' visible='true' version='1' changeset='44993304' lat='-27.4343374' lon='-59.0076868' />
+  <node id='4595625787' timestamp='2017-01-08T04:09:56Z' uid='485898' user='Víctor L' visible='true' version='1' changeset='44993304' lat='-27.4343343' lon='-59.0078533' />
+  <node id='4595625788' timestamp='2017-01-08T04:09:56Z' uid='485898' user='Víctor L' visible='true' version='1' changeset='44993304' lat='-27.4343345' lon='-59.0079954' />
+  <node id='4595625889' timestamp='2017-01-08T04:09:56Z' uid='485898' user='Víctor L' visible='true' version='1' changeset='44993304' lat='-27.4343371' lon='-59.0081395' />
+  <node id='4595625890' timestamp='2017-01-08T04:09:56Z' uid='485898' user='Víctor L' visible='true' version='1' changeset='44993304' lat='-27.4343553' lon='-59.0084714' />
+  <node id='4595625891' timestamp='2018-02-09T11:51:35Z' uid='114642' user='pertile' visible='true' version='2' changeset='56214444' lat='-27.4344105' lon='-59.0090178'>
+    <tag k='bus' v='yes' />
+    <tag k='name' v='25 de Mayo y Pereyra' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='4595625892' timestamp='2017-01-08T04:09:56Z' uid='485898' user='Víctor L' visible='true' version='1' changeset='44993304' lat='-27.434432' lon='-59.0091699' />
+  <node id='4595625893' timestamp='2017-01-08T04:09:56Z' uid='485898' user='Víctor L' visible='true' version='1' changeset='44993304' lat='-27.4343983' lon='-59.0089131' />
+  <node id='4595625894' timestamp='2017-01-08T04:09:56Z' uid='485898' user='Víctor L' visible='true' version='1' changeset='44993304' lat='-27.4343751' lon='-59.0087015' />
+  <node id='4595625895' timestamp='2017-01-08T04:09:56Z' uid='485898' user='Víctor L' visible='true' version='1' changeset='44993304' lat='-27.4344901' lon='-59.0095084' />
+  <node id='4595625896' timestamp='2017-01-08T04:09:56Z' uid='485898' user='Víctor L' visible='true' version='1' changeset='44993304' lat='-27.4345328' lon='-59.0097324' />
+  <node id='4595625946' timestamp='2017-01-08T04:09:56Z' uid='485898' user='Víctor L' visible='true' version='1' changeset='44993304' lat='-27.4349139' lon='-59.0108407' />
+  <node id='4595625947' timestamp='2017-01-08T04:09:56Z' uid='485898' user='Víctor L' visible='true' version='1' changeset='44993304' lat='-27.4348258' lon='-59.0106738' />
+  <node id='4595625948' timestamp='2017-01-08T04:09:56Z' uid='485898' user='Víctor L' visible='true' version='1' changeset='44993304' lat='-27.4351558' lon='-59.0112413' />
+  <node id='4595625949' timestamp='2017-01-08T04:09:56Z' uid='485898' user='Víctor L' visible='true' version='1' changeset='44993304' lat='-27.4353039' lon='-59.0114635' />
+  <node id='4595625950' timestamp='2017-01-08T04:09:57Z' uid='485898' user='Víctor L' visible='true' version='1' changeset='44993304' lat='-27.4352298' lon='-59.0113581' />
+  <node id='5252311324' timestamp='2017-12-06T16:27:24Z' uid='114642' user='pertile' visible='true' version='3' changeset='54406208' lat='-27.4520237' lon='-58.987303'>
+    <tag k='crossing' v='uncontrolled' />
+    <tag k='highway' v='crossing' />
+    <tag k='kerb' v='lowered' />
+    <tag k='tactile_paving' v='no' />
+  </node>
+  <node id='5252311327' timestamp='2017-12-06T16:27:24Z' uid='114642' user='pertile' visible='true' version='2' changeset='54406208' lat='-27.451839' lon='-58.9875107' />
+  <node id='5268211670' timestamp='2017-12-06T16:27:21Z' uid='114642' user='pertile' visible='true' version='1' changeset='54406208' lat='-27.4520455' lon='-58.9855823' />
+  <node id='5268211673' timestamp='2017-12-06T16:27:21Z' uid='114642' user='pertile' visible='true' version='1' changeset='54406208' lat='-27.4520068' lon='-58.9857454' />
+  <node id='5268211696' timestamp='2018-01-25T18:23:48Z' uid='114642' user='pertile' visible='true' version='2' changeset='55750091' lat='-27.4503061' lon='-58.9875223' />
+  <node id='5268211701' timestamp='2017-12-21T18:14:54Z' uid='114642' user='pertile' visible='true' version='2' changeset='54821878' lat='-27.450458' lon='-58.9874846' />
+  <node id='5296230619' timestamp='2017-12-20T19:22:13Z' uid='114642' user='pertile' visible='true' version='1' changeset='54795458' lat='-27.4496861' lon='-58.9882315' />
+  <node id='5296231419' timestamp='2018-02-06T13:23:51Z' uid='114642' user='pertile' visible='true' version='2' changeset='56116813' lat='-27.4502581' lon='-58.987584'>
+    <tag k='bus' v='yes' />
+    <tag k='name' v='25 de Mayo y Santa María de Oro' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='5365036870' timestamp='2018-01-27T01:39:26Z' uid='114642' user='pertile' visible='true' version='1' changeset='55791381' lat='-27.4526712' lon='-58.9848671' />
+  <node id='5381956732' timestamp='2018-02-03T00:18:00Z' uid='114642' user='pertile' visible='true' version='1' changeset='56012261' lat='-27.4495538' lon='-58.9883812' />
+  <node id='5381956743' timestamp='2018-02-03T00:18:00Z' uid='114642' user='pertile' visible='true' version='1' changeset='56012261' lat='-27.4489213' lon='-58.9890863' />
+  <node id='5389795617' timestamp='2018-02-05T13:33:36Z' uid='114642' user='pertile' visible='true' version='1' changeset='56085138' lat='-27.4366816' lon='-59.0028594'>
+    <tag k='bus' v='yes' />
+    <tag k='name' v='25 de Mayo y Mansilla' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='5389795618' timestamp='2018-02-05T13:33:36Z' uid='114642' user='pertile' visible='true' version='1' changeset='56085138' lat='-27.4367185' lon='-59.0029093'>
+    <tag k='bench' v='no' />
+    <tag k='bin' v='no' />
+    <tag k='name' v='25 de Mayo y Mansilla' />
+    <tag k='public_transport' v='platform' />
+    <tag k='shelter' v='yes' />
+  </node>
+  <node id='5393038582' timestamp='2018-02-06T13:23:43Z' uid='114642' user='pertile' visible='true' version='1' changeset='56116813' lat='-27.4516825' lon='-58.987685'>
+    <tag k='bus' v='yes' />
+    <tag k='name' v='Julio A. Roca 35' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='5393038583' timestamp='2018-02-06T13:23:43Z' uid='114642' user='pertile' visible='true' version='1' changeset='56116813' lat='-27.4517322' lon='-58.987717'>
+    <tag k='bench' v='yes' />
+    <tag k='bin' v='yes' />
+    <tag k='name' v='Julio A. Roca 35' />
+    <tag k='public_transport' v='platform' />
+    <tag k='shelter' v='yes' />
+  </node>
+  <node id='5393038584' timestamp='2018-02-06T13:23:43Z' uid='114642' user='pertile' visible='true' version='1' changeset='56116813' lat='-27.4487399' lon='-58.9892856'>
+    <tag k='bus' v='yes' />
+    <tag k='name' v='25 de Mayo y Necochea' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='5393038585' timestamp='2018-02-06T13:23:43Z' uid='114642' user='pertile' visible='true' version='1' changeset='56116813' lat='-27.4487716' lon='-58.9893347'>
+    <tag k='bench' v='yes' />
+    <tag k='bin' v='yes' />
+    <tag k='name' v='25 de Mayo y Necochea' />
+    <tag k='public_transport' v='platform' />
+    <tag k='shelter' v='yes' />
+  </node>
+  <node id='5393038586' timestamp='2018-02-06T13:23:43Z' uid='114642' user='pertile' visible='true' version='1' changeset='56116813' lat='-27.4456372' lon='-58.9928006'>
+    <tag k='bus' v='yes' />
+    <tag k='name' v='25 de Mayo y Cangallo' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='5393038587' timestamp='2018-02-06T13:23:43Z' uid='114642' user='pertile' visible='true' version='1' changeset='56116813' lat='-27.4456671' lon='-58.9928256'>
+    <tag k='bench' v='yes' />
+    <tag k='bin' v='yes' />
+    <tag k='name' v='25 de Mayo y Cangallo' />
+    <tag k='public_transport' v='platform' />
+    <tag k='shelter' v='yes' />
+  </node>
+  <node id='5393038588' timestamp='2018-02-06T13:23:43Z' uid='114642' user='pertile' visible='true' version='1' changeset='56116813' lat='-27.4431967' lon='-58.9955385'>
+    <tag k='bus' v='yes' />
+    <tag k='name' v='25 de Mayo y Pío XII' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='5393038589' timestamp='2018-02-06T13:23:43Z' uid='114642' user='pertile' visible='true' version='1' changeset='56116813' lat='-27.4432124' lon='-58.9955695'>
+    <tag k='bench' v='no' />
+    <tag k='name' v='25 de Mayo y Pío XII' />
+    <tag k='public_transport' v='platform' />
+    <tag k='shelter' v='no' />
+  </node>
+  <node id='5401078636' timestamp='2018-02-09T11:51:31Z' uid='114642' user='pertile' visible='true' version='1' changeset='56214444' lat='-27.434501' lon='-59.0089711'>
+    <tag k='bench' v='yes' />
+    <tag k='name' v='25 de Mayo y Pereyra' />
+    <tag k='public_transport' v='platform' />
+    <tag k='shelter' v='yes' />
+  </node>
+  <node id='5401078639' timestamp='2018-02-09T11:51:31Z' uid='114642' user='pertile' visible='true' version='1' changeset='56214444' lat='-27.4347073' lon='-59.005785'>
+    <tag k='bus' v='yes' />
+    <tag k='name' v='25 de Mayo y Brignole' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='5401078642' timestamp='2018-02-09T11:51:31Z' uid='114642' user='pertile' visible='true' version='1' changeset='56214444' lat='-27.4346216' lon='-59.0060514' />
+  <node id='5404214342' timestamp='2018-02-27T12:50:34Z' uid='114642' user='pertile' visible='true' version='2' changeset='56722035' lat='-27.4488027' lon='-58.9892166'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='5404214812' timestamp='2018-02-10T20:38:05Z' uid='114642' user='pertile' visible='true' version='1' changeset='56249428' lat='-27.4480206' lon='-58.9900782' />
+  <node id='5404214815' timestamp='2018-02-10T20:38:05Z' uid='114642' user='pertile' visible='true' version='1' changeset='56249428' lat='-27.4473725' lon='-58.990813' />
+  <node id='5404215050' timestamp='2018-02-10T20:38:05Z' uid='114642' user='pertile' visible='true' version='1' changeset='56249428' lat='-27.4481334' lon='-58.9899523' />
+  <node id='5423025719' timestamp='2018-02-19T18:14:47Z' uid='114642' user='pertile' visible='true' version='1' changeset='56499271' lat='-27.4523587' lon='-58.9852243'>
+    <tag k='bus' v='yes' />
+    <tag k='name' v='9 de Julio 150' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='5429705463' timestamp='2018-02-22T18:59:23Z' uid='114642' user='pertile' visible='true' version='1' changeset='56588697' lat='-27.4464516' lon='-58.9918569'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='5432289515' timestamp='2018-02-23T23:10:04Z' uid='114642' user='pertile' visible='true' version='1' changeset='56624119' lat='-27.4465491' lon='-58.9917452' />
+  <node id='5432289586' timestamp='2018-02-27T12:50:34Z' uid='114642' user='pertile' visible='true' version='2' changeset='56722035' lat='-27.4471845' lon='-58.9910282'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='5440047467' timestamp='2018-02-27T12:50:17Z' uid='114642' user='pertile' visible='true' version='1' changeset='56722035' lat='-27.4464362' lon='-58.9918748' />
+  <node id='5440047469' timestamp='2018-02-27T12:50:17Z' uid='114642' user='pertile' visible='true' version='1' changeset='56722035' lat='-27.4458037' lon='-58.992614' />
+  <node id='5441103955' timestamp='2018-02-27T21:28:30Z' uid='6095772' user='cartogram' visible='true' version='1' changeset='56736076' lat='-27.4383242' lon='-59.0154011' />
+  <node id='5498759711' timestamp='2018-03-23T11:59:17Z' uid='114642' user='pertile' visible='true' version='1' changeset='57454812' lat='-27.4456731' lon='-58.9927614' />
+  <node id='5498759712' timestamp='2018-03-23T11:59:17Z' uid='114642' user='pertile' visible='true' version='1' changeset='57454812' lat='-27.4450311' lon='-58.9934618' />
+  <node id='5498760223' timestamp='2018-03-23T11:59:17Z' uid='114642' user='pertile' visible='true' version='1' changeset='57454812' lat='-27.4447324' lon='-58.9937913'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='5527982283' timestamp='2018-04-04T13:07:38Z' uid='114642' user='pertile' visible='true' version='1' changeset='57803072' lat='-27.4439939' lon='-58.9946396'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='5528778642' timestamp='2018-04-04T18:56:44Z' uid='114642' user='pertile' visible='true' version='1' changeset='57812131' lat='-27.444111' lon='-58.994506' />
+  <way id='87888333' timestamp='2018-11-28T01:02:52Z' uid='6095772' user='cartogram' visible='true' version='12' changeset='64955358'>
+    <nd ref='419743333' />
+    <nd ref='2573671520' />
+    <nd ref='5268211673' />
+    <nd ref='3335201244' />
+    <tag k='highway' v='primary' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='40' />
+    <tag k='name' v='Arturo Frondizi' />
+    <tag k='oneway' v='yes' />
+    <tag k='parking:lane' v='no' />
+    <tag k='sorting_name' v='Frondizi, Arturo' />
+    <tag k='source:maxspeed' v='sign' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='87888336' timestamp='2018-11-28T01:02:53Z' uid='6095772' user='cartogram' visible='true' version='15' changeset='64955358'>
+    <nd ref='419743443' />
+    <nd ref='2573671512' />
+    <nd ref='5393038582' />
+    <nd ref='5252311327' />
+    <nd ref='3335201243' />
+    <tag k='highway' v='primary' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='40' />
+    <tag k='name' v='Julio Argentino Roca' />
+    <tag k='oneway' v='yes' />
+    <tag k='parking:lane' v='no' />
+    <tag k='sorting_name' v='Roca, Julio Argentino' />
+    <tag k='source:maxspeed' v='sign' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='87888342' timestamp='2018-11-28T01:02:53Z' uid='6095772' user='cartogram' visible='true' version='15' changeset='64955358'>
+    <nd ref='355040785' />
+    <nd ref='3335201245' />
+    <tag k='highway' v='primary' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='40' />
+    <tag k='name' v='Juan B. Justo' />
+    <tag k='oneway' v='yes' />
+    <tag k='parking:lane' v='no' />
+    <tag k='sorting_name' v='Justo, Juan B.' />
+    <tag k='source:maxspeed' v='sign' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='88452730' timestamp='2016-07-22T15:50:35Z' uid='189520' user='Carlos Brys' visible='true' version='3' changeset='40953387'>
+    <nd ref='1027310405' />
+    <nd ref='256597240' />
+    <tag k='bridge' v='yes' />
+    <tag k='highway' v='trunk' />
+    <tag k='layer' v='1' />
+    <tag k='name' v='Ruta Nacional 11' />
+    <tag k='ref' v='RN11' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='88452733' timestamp='2011-09-24T14:50:06Z' uid='114642' user='pertile' visible='true' version='5' changeset='9384674'>
+    <nd ref='256597240' />
+    <nd ref='1209324764' />
+    <tag k='highway' v='trunk' />
+    <tag k='name' v='Ruta Nacional 11' />
+    <tag k='ref' v='RN11' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='103231323' timestamp='2018-06-25T18:46:12Z' uid='114642' user='pertile' visible='true' version='25' changeset='60159344'>
+    <nd ref='3335201244' />
+    <nd ref='2656096341' />
+    <nd ref='5268211670' />
+    <nd ref='5423025719' />
+    <nd ref='5365036870' />
+    <nd ref='1191876413' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='1' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Avenida 9 de Julio' />
+    <tag k='oneway' v='yes' />
+    <tag k='sorting_name' v='9 de Julio' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='103231326' timestamp='2018-06-25T18:46:13Z' uid='114642' user='pertile' visible='true' version='13' changeset='60159344'>
+    <nd ref='1208047918' />
+    <nd ref='4595625777' />
+    <nd ref='4595625778' />
+    <nd ref='4595625779' />
+    <nd ref='4595625780' />
+    <nd ref='4595625781' />
+    <nd ref='4595625782' />
+    <nd ref='1202281959' />
+    <nd ref='1202282020' />
+    <nd ref='5389795617' />
+    <nd ref='1202281924' />
+    <nd ref='1202281926' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='1' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Avenida 25 de Mayo' />
+    <tag k='oneway' v='yes' />
+    <tag k='sorting_name' v='25 de Mayo' />
+    <tag k='surface' v='concrete' />
+  </way>
+  <way id='104738112' timestamp='2017-01-09T02:57:43Z' uid='485898' user='Víctor L' visible='true' version='9' changeset='45016402'>
+    <nd ref='358233959' />
+    <nd ref='4595625949' />
+    <nd ref='4595625950' />
+    <nd ref='4595625948' />
+    <nd ref='1208048044' />
+    <nd ref='4595625946' />
+    <nd ref='4595625947' />
+    <nd ref='1208047967' />
+    <nd ref='1686499119' />
+    <tag k='embankment' v='yes' />
+    <tag k='highway' v='trunk_link' />
+    <tag k='lanes' v='1' />
+    <tag k='maxspeed' v='40' />
+    <tag k='name' v='Acceso Sur a Ruta Nacional 11' />
+    <tag k='oneway' v='yes' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='104738143' timestamp='2017-01-09T02:57:44Z' uid='485898' user='Víctor L' visible='true' version='4' changeset='45016402'>
+    <nd ref='358233959' />
+    <nd ref='1027310405' />
+    <tag k='embankment' v='yes' />
+    <tag k='highway' v='trunk' />
+    <tag k='lanes' v='1' />
+    <tag k='maxspeed' v='60' />
+    <tag k='name' v='Ruta Nacional 11' />
+    <tag k='oneway' v='no' />
+    <tag k='ref' v='RN11' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='107261054' timestamp='2018-06-25T18:46:17Z' uid='114642' user='pertile' visible='true' version='5' changeset='60159344'>
+    <nd ref='1193262122' />
+    <nd ref='1191876488' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='1' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Avenida 25 de Mayo' />
+    <tag k='oneway' v='yes' />
+    <tag k='sorting_name' v='25 de Mayo' />
+    <tag k='surface' v='concrete' />
+  </way>
+  <way id='107261073' timestamp='2018-06-25T18:46:18Z' uid='114642' user='pertile' visible='true' version='8' changeset='60159344'>
+    <nd ref='1191876488' />
+    <nd ref='5404214815' />
+    <nd ref='5404214812' />
+    <nd ref='1191876384' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='1' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Avenida 25 de Mayo' />
+    <tag k='oneway' v='yes' />
+    <tag k='sorting_name' v='25 de Mayo' />
+    <tag k='surface' v='concrete' />
+  </way>
+  <way id='107261119' timestamp='2018-06-25T18:46:19Z' uid='114642' user='pertile' visible='true' version='5' changeset='60159344'>
+    <nd ref='1193261810' />
+    <nd ref='1193261686' />
+    <nd ref='1191876399' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='1' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Avenida 25 de Mayo' />
+    <tag k='oneway' v='yes' />
+    <tag k='sorting_name' v='25 de Mayo' />
+    <tag k='surface' v='concrete' />
+  </way>
+  <way id='107261164' timestamp='2018-06-25T18:46:21Z' uid='114642' user='pertile' visible='true' version='8' changeset='60159344'>
+    <nd ref='1191876399' />
+    <nd ref='5498759712' />
+    <nd ref='5393038586' />
+    <nd ref='5498759711' />
+    <nd ref='1191876451' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='1' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Avenida 25 de Mayo' />
+    <tag k='oneway' v='yes' />
+    <tag k='sorting_name' v='25 de Mayo' />
+    <tag k='surface' v='concrete' />
+  </way>
+  <way id='114332930' timestamp='2018-06-25T18:46:22Z' uid='114642' user='pertile' visible='true' version='10' changeset='60159344'>
+    <nd ref='1191876415' />
+    <nd ref='5296230619' />
+    <nd ref='5296231419' />
+    <nd ref='5268211696' />
+    <nd ref='3335201240' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='1' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Avenida 25 de Mayo' />
+    <tag k='oneway' v='yes' />
+    <tag k='sorting_name' v='25 de Mayo' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='229667065' timestamp='2018-06-25T18:46:24Z' uid='114642' user='pertile' visible='true' version='5' changeset='60159344'>
+    <nd ref='1203450215' />
+    <nd ref='1215357805' />
+    <tag k='highway' v='primary' />
+    <tag k='name' v='Avenida Alvear' />
+    <tag k='oneway' v='no' />
+    <tag k='surface' v='concrete' />
+  </way>
+  <way id='229667067' timestamp='2016-07-22T15:50:35Z' uid='189520' user='Carlos Brys' visible='true' version='2' changeset='40953387'>
+    <nd ref='1203450215' />
+    <nd ref='1203450232' />
+    <nd ref='1209324755' />
+    <nd ref='1209324764' />
+    <tag k='highway' v='trunk' />
+    <tag k='lanes' v='2' />
+    <tag k='name' v='Ruta Nacional 11' />
+    <tag k='oneway' v='yes' />
+    <tag k='ref' v='RN11' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='239951634' timestamp='2018-06-25T18:46:24Z' uid='114642' user='pertile' visible='true' version='5' changeset='60159344'>
+    <nd ref='1215357990' />
+    <nd ref='1215357805' />
+    <tag k='highway' v='primary' />
+    <tag k='name' v='Avenida Carlos María de Alvear' />
+    <tag k='oneway' v='no' />
+    <tag k='sorting_name' v='Alvear, Carlos María de' />
+    <tag k='surface' v='concrete' />
+  </way>
+  <way id='243609043' timestamp='2018-06-25T18:46:25Z' uid='114642' user='pertile' visible='true' version='3' changeset='60159344'>
+    <nd ref='1202281926' />
+    <nd ref='1193964174' />
+    <nd ref='1193964083' />
+    <nd ref='1193964168' />
+    <nd ref='1193964064' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='1' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Avenida 25 de Mayo' />
+    <tag k='oneway' v='yes' />
+    <tag k='sorting_name' v='25 de Mayo' />
+    <tag k='surface' v='concrete' />
+  </way>
+  <way id='243609044' timestamp='2018-06-25T18:46:26Z' uid='114642' user='pertile' visible='true' version='4' changeset='60159344'>
+    <nd ref='1193964064' />
+    <nd ref='1193964185' />
+    <nd ref='1193964106' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='1' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Avenida 25 de Mayo' />
+    <tag k='oneway' v='yes' />
+    <tag k='sorting_name' v='25 de Mayo' />
+    <tag k='surface' v='concrete' />
+  </way>
+  <way id='244772987' timestamp='2018-06-25T18:46:26Z' uid='114642' user='pertile' visible='true' version='5' changeset='60159344'>
+    <nd ref='1193964106' />
+    <nd ref='1193964089' />
+    <nd ref='5393038588' />
+    <nd ref='1193964152' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='1' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Avenida 25 de Mayo' />
+    <tag k='oneway' v='yes' />
+    <tag k='sorting_name' v='25 de Mayo' />
+    <tag k='surface' v='concrete' />
+  </way>
+  <way id='244775349' timestamp='2018-06-25T18:46:26Z' uid='114642' user='pertile' visible='true' version='7' changeset='60159344'>
+    <nd ref='1193964152' />
+    <nd ref='5527982283' />
+    <nd ref='1193964138' />
+    <nd ref='5528778642' />
+    <nd ref='5498760223' />
+    <nd ref='1193261810' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='1' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Avenida 25 de Mayo' />
+    <tag k='oneway' v='yes' />
+    <tag k='sorting_name' v='25 de Mayo' />
+    <tag k='surface' v='concrete' />
+  </way>
+  <way id='251077188' timestamp='2018-06-25T18:46:26Z' uid='114642' user='pertile' visible='true' version='6' changeset='60159344'>
+    <nd ref='1191876451' />
+    <nd ref='5440047469' />
+    <nd ref='5440047467' />
+    <nd ref='5429705463' />
+    <nd ref='1191876464' />
+    <nd ref='5432289515' />
+    <nd ref='5432289586' />
+    <nd ref='1193262122' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='1' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Avenida 25 de Mayo' />
+    <tag k='oneway' v='yes' />
+    <tag k='sorting_name' v='25 de Mayo' />
+    <tag k='surface' v='concrete' />
+  </way>
+  <way id='251077194' timestamp='2018-06-25T18:46:27Z' uid='114642' user='pertile' visible='true' version='6' changeset='60159344'>
+    <nd ref='1191876384' />
+    <nd ref='5404215050' />
+    <nd ref='5393038584' />
+    <nd ref='5404214342' />
+    <nd ref='1191876389' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='1' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Avenida 25 de Mayo' />
+    <tag k='oneway' v='yes' />
+    <tag k='sorting_name' v='25 de Mayo' />
+    <tag k='surface' v='concrete' />
+  </way>
+  <way id='323720533' timestamp='2018-06-25T18:46:28Z' uid='114642' user='pertile' visible='true' version='6' changeset='60159344'>
+    <nd ref='1216472591' />
+    <nd ref='4323830555' />
+    <nd ref='1216472703' />
+    <nd ref='1216472389' />
+    <nd ref='1216472647' />
+    <nd ref='1215545759' />
+    <nd ref='1215545749' />
+    <nd ref='1215357948' />
+    <nd ref='2477245871' />
+    <nd ref='1215357883' />
+    <nd ref='2477245873' />
+    <nd ref='1215357816' />
+    <nd ref='1215545743' />
+    <nd ref='1215358009' />
+    <nd ref='1215358044' />
+    <nd ref='5441103955' />
+    <nd ref='1215357990' />
+    <tag k='highway' v='primary' />
+    <tag k='name' v='Avenida Carlos María de Alvear' />
+    <tag k='oneway' v='yes' />
+    <tag k='sorting_name' v='Alvear, Carlos María de' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='326839201' timestamp='2018-11-28T01:02:54Z' uid='6095772' user='cartogram' visible='true' version='5' changeset='64955358'>
+    <nd ref='3335201240' />
+    <nd ref='5268211701' />
+    <nd ref='2573671509' />
+    <nd ref='419743443' />
+    <tag k='highway' v='primary' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='40' />
+    <tag k='name' v='Santa María de Oro' />
+    <tag k='oneway' v='yes' />
+    <tag k='parking:lane' v='no' />
+    <tag k='source:maxspeed' v='sign' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='327493630' timestamp='2018-11-28T01:02:54Z' uid='6095772' user='cartogram' visible='true' version='5' changeset='64955358'>
+    <nd ref='3335201243' />
+    <nd ref='355040785' />
+    <tag k='highway' v='primary' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='40' />
+    <tag k='name' v='Julio Argentino Roca' />
+    <tag k='oneway' v='yes' />
+    <tag k='parking:lane' v='no' />
+    <tag k='sorting_name' v='Roca, Julio Argentino' />
+    <tag k='source:maxspeed' v='sign' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='328852168' timestamp='2018-11-28T01:02:55Z' uid='6095772' user='cartogram' visible='true' version='6' changeset='64955358'>
+    <nd ref='3335201245' />
+    <nd ref='5252311324' />
+    <nd ref='2573671525' />
+    <nd ref='419743333' />
+    <tag k='highway' v='primary' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='40' />
+    <tag k='name' v='Juan B. Justo' />
+    <tag k='oneway' v='yes' />
+    <tag k='parking:lane' v='no' />
+    <tag k='sorting_name' v='Justo, Juan B.' />
+    <tag k='source:maxspeed' v='sign' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='336929221' timestamp='2018-06-25T18:46:32Z' uid='114642' user='pertile' visible='true' version='7' changeset='60159344'>
+    <nd ref='1686499119' />
+    <nd ref='4595625896' />
+    <nd ref='4595625895' />
+    <nd ref='1208047992' />
+    <nd ref='4595625892' />
+    <nd ref='4595625891' />
+    <nd ref='4595625893' />
+    <nd ref='358233958' />
+    <nd ref='4595625894' />
+    <nd ref='1208048065' />
+    <nd ref='4595625890' />
+    <nd ref='2393442461' />
+    <nd ref='4595625889' />
+    <nd ref='4595625788' />
+    <nd ref='4595625787' />
+    <nd ref='4595625786' />
+    <nd ref='1208047985' />
+    <tag k='description' v='Acceso Sur a Ruta Nacional 11' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='2' />
+    <tag k='name' v='Avenida 25 de Mayo' />
+    <tag k='oneway' v='yes' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='431925509' timestamp='2018-06-25T18:46:38Z' uid='114642' user='pertile' visible='true' version='4' changeset='60159344'>
+    <nd ref='1208047985' />
+    <nd ref='1208047945' />
+    <nd ref='2377949427' />
+    <nd ref='5401078642' />
+    <nd ref='5401078639' />
+    <nd ref='1208048023' />
+    <nd ref='1208047918' />
+    <tag k='description' v='Acceso Sur a Ruta Nacional 11' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='60' />
+    <tag k='name' v='Avenida 25 de Mayo' />
+    <tag k='oneway' v='yes' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='556816123' timestamp='2018-06-25T18:46:40Z' uid='114642' user='pertile' visible='true' version='3' changeset='60159344'>
+    <nd ref='1191876389' />
+    <nd ref='5381956743' />
+    <nd ref='5381956732' />
+    <nd ref='1191876415' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='1' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Avenida 25 de Mayo' />
+    <tag k='oneway' v='yes' />
+    <tag k='sorting_name' v='25 de Mayo' />
+    <tag k='surface' v='concrete' />
+  </way>
+  <relation id='7964200' timestamp='2018-02-09T11:51:46Z' uid='114642' user='pertile' visible='true' version='4' changeset='56214444'>
+    <member type='way' ref='323720533' role='' />
+    <member type='way' ref='239951634' role='' />
+    <member type='way' ref='229667065' role='' />
+    <member type='way' ref='229667067' role='' />
+    <member type='way' ref='88452733' role='' />
+    <member type='way' ref='88452730' role='' />
+    <member type='way' ref='104738143' role='' />
+    <member type='way' ref='104738112' role='' />
+    <member type='way' ref='336929221' role='' />
+    <member type='way' ref='431925509' role='' />
+    <member type='way' ref='103231326' role='' />
+    <member type='way' ref='243609043' role='' />
+    <member type='way' ref='243609044' role='' />
+    <member type='way' ref='244772987' role='' />
+    <member type='way' ref='244775349' role='' />
+    <member type='way' ref='107261119' role='' />
+    <member type='way' ref='107261164' role='' />
+    <member type='way' ref='251077188' role='' />
+    <member type='way' ref='107261054' role='' />
+    <member type='way' ref='107261073' role='' />
+    <member type='way' ref='251077194' role='' />
+    <member type='way' ref='556816123' role='' />
+    <member type='way' ref='114332930' role='' />
+    <member type='way' ref='326839201' role='' />
+    <member type='way' ref='87888336' role='' />
+    <member type='way' ref='327493630' role='' />
+    <member type='way' ref='87888342' role='' />
+    <member type='way' ref='328852168' role='' />
+    <member type='way' ref='87888333' role='' />
+    <member type='way' ref='103231323' role='' />
+    <member type='node' ref='4595625891' role='stop' />
+    <member type='node' ref='5401078639' role='stop' />
+    <member type='node' ref='5389795617' role='stop' />
+    <member type='node' ref='5393038588' role='stop' />
+    <member type='node' ref='5393038586' role='stop' />
+    <member type='node' ref='5393038584' role='stop' />
+    <member type='node' ref='5393038582' role='stop' />
+    <member type='node' ref='5401078636' role='platform' />
+    <member type='node' ref='2380076720' role='platform' />
+    <member type='node' ref='5389795618' role='platform' />
+    <member type='node' ref='5393038589' role='platform' />
+    <member type='node' ref='5393038587' role='platform' />
+    <member type='node' ref='5393038585' role='platform' />
+    <member type='node' ref='5393038583' role='platform' />
+    <tag k='name' v='Línea 107 Vuelta' />
+    <tag k='public_transport:version' v='2' />
+    <tag k='route' v='bus' />
+    <tag k='type' v='route' />
+  </relation>
+</osm>
