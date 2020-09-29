@@ -1,26 +1,18 @@
-instrucciones para instalar geodjango (django 3.0)
-	https://docs.djangoproject.com/en/3.0/ref/contrib/gis/install/
-	
-	https://docs.djangoproject.com/en/3.0/ref/contrib/gis/install/#windows
-
-	https://docs.djangoproject.com/en/3.0/ref/contrib/gis/install/geolibs/
-
-	https://docs.djangoproject.com/en/3.0/ref/contrib/gis/install/postgis/
-
-Acceder a la consola de postgres 
-
-	http://tecnologiaenvivo.com/acceder-a-la-consola-de-postgres/
-
-JSOM - para editar las rutas
-
-Como editar las rutas
-https://1drv.ms/b/s!Ah3ovb4Ab5AZioYAZGhQQjdd49TQVA?e=MXMFzI
-
-Rutas actuales de lineas urbanas (faltan las interurbanas)
-
-https://1drv.ms/b/s!Ah3ovb4Ab5AZioV_-z-xh1OFTKxKjg?e=dEqrai
-
-osm2pgsql - para importar archivos .osm en postgis
-
-
-
+#instrucciones para instalar geodjango (django 3.0)
+#	https://docs.djangoproject.com/en/3.0/ref/contrib/gis/install/
+#	https://docs.djangoproject.com/en/3.0/ref/contrib/gis/install/#windows
+#	https://docs.djangoproject.com/en/3.0/ref/contrib/gis/install/geolibs/
+#	https://docs.djangoproject.com/en/3.0/ref/contrib/gis/install/postgis/
+#Acceder a la consola de postgres
+#http://tecnologiaenvivo.com/acceder-a-la-consola-de-postgres/
+#JSOM - para editar las rutas
+#Como editar las rutas
+#https://1drv.ms/b/s!Ah3ovb4Ab5AZioYAZGhQQjdd49TQVA?e=MXMFzI
+#Rutas actuales de lineas urbanas (faltan las interurbanas)
+#https://1drv.ms/b/s!Ah3ovb4Ab5AZioV_-z-xh1OFTKxKjg?e=dEqrai
+#osm2pgsql - para importar archivos .osm en postgis
+django==3.1
+geolib==1.0.7
+postgis==1.0.4
+psycopg2==2.8.6
+gdal==2.4.2
