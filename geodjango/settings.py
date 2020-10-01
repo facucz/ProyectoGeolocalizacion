@@ -127,4 +127,4 @@ USE_TZ = True
 STATIC_URL = '/static/'
 
 
-GDAL_LIBRARY_PATH = r'C:\OSGeo4W64\bin\gdal300'
+GDAL_LIBRARY_PATH = r'/usr/lib/libgdal.so'
