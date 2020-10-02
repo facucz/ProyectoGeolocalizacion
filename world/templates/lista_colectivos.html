@@ -1,0 +1,25 @@
+<h1>Colectivos que llevan al destino ingresado:</h1>
+{% block content %}
+
+<div class="row mb-2">
+
+    {% if lineasColectivos %}
+
+        {% for colectivo in lineasColectivos %}
+              <div class="row no-gutters border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+                  <h3 class="mb-0">{{colectivo.name}}</h3>
+                  <div class="mb-1 text-muted">Destino {{colectivo.destino}}</div>
+                </div>
+        {% endfor %}
+
+    {% else %}
+
+        <div class="alert alert-danger" role="alert">
+            <strong>No hay colectivos que lleven a ese destino</strong>
+        </div>
+
+    {% endif %}
+
+</div>
+
+{% endblock %}
